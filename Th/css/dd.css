@@ -1,0 +1,76 @@
+
+			.c{background: white; margin-top:100px;margin-left: 10% ;margin-right: auto;}
+				/*清除属性*/
+	body
+	{
+		background-color: rgb(242,242,242);
+	}
+	ui
+	{
+		margin: 0;
+		padding: 0;
+	}
+	li
+	{
+		list-style: none;
+	}
+	
+	/*添加属性*/
+	.box
+	{
+		width: 80%;
+		height: auto;
+		margin-left: 10%;
+		margin-top: 10%;
+		background-color: white;
+		border-radius: 10px;
+		
+	}
+	.box_left
+	{
+		width: 80%;
+		margin-left: 5%;
+	}
+	li
+	{
+		font-family: "微软雅黑";
+		font-size: 16px;
+		padding: 20px 0 0 0;
+		color: rgba(168,168,168,1.00);
+		height: auto;
+		
+	}
+	.line_center
+	{
+		width: 100%;
+		border: 1px solid rgb(242,242,242);
+		margin: 20px 0 0 0;
+	}
+	li .sub-heading1
+	{
+		float: left;
+		margin-left: 50%;
+		margin-top: -10%;
+	}
+	.box_bottom_left
+	{
+		float:left;
+		padding-left: 5%;
+		margin-top: 21%;
+		background-color: white;
+		height: 60px;;
+		width: 50%;
+	}
+	.box_bottom_right input
+	{
+		background: rgba(70,145,213,1.00);
+		float: right;
+		width: 40%;
+		height: 60px;
+		margin: 20% 10% 0% 0%;
+	}
+	a{color: white;}
+	a:hover{color:white; text-decoration: none;}
+	.btn_top_all div a{color: #333;}
+	.btn_top_all div a:hover{color:#222;}
+	.btn_bottom_all li div a{color:#333;}
